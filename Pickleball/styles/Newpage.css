@@ -1,0 +1,51 @@
+.header{
+    background-color: black;
+    color:white;
+    height:100px;
+    line-height: 100px;
+}
+
+.mainbody{
+    background-color:mediumspringgreen;
+}
+
+.footer{
+   background-color: aqua;
+    height: 25px;
+    bottom: 0px;
+    position: fixed;
+    left: 5px;
+    right: 5px;
+    padding-top
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.common{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+nav{
+    background-color: lightcoral;
+    padding:50px;
+    overflow:hidden;
+}
+
+nav a{
+    float:left;
+    padding: 15px;
+    text-decoration: none;
+    color:blanchedalmond;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+nav a:hover{
+    background-color:rgb(215, 48, 48)
+}
